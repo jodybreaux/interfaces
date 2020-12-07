@@ -1,0 +1,7 @@
+{
+  "name": "asp.net",
+  "private": true,
+  "dependencies": {
+  },
+  "connectionString": "data source=LAPTOP-BREAUX\\SQLEXPRESS01;initial catalog=myInSentry;MultipleActiveResultSets=True;Connection Timeout=300;"
+}
