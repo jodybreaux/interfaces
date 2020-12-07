@@ -1,0 +1,7 @@
+C:\Users\jodyj\Source\Repos\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csprojAssemblyReference.cache
+C:\Users\jodyj\Source\Repos\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+C:\Users\jodyj\Source\Repos\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+C:\Users\jodyj\Source\Repos\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\jodyj\Source\Repos\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jodyj\Source\Repos\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.RazorAssemblyInfo.cache
+C:\Users\jodyj\Source\Repos\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.RazorAssemblyInfo.cs
