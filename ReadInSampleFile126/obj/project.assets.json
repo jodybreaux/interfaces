@@ -2204,11 +2204,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jodyj\\Source\\Repos\\ReadInSampleFile126\\ReadInFile126.csproj",
+      "projectUniqueName": "C:\\Users\\jodyj\\Source\\Repos\\Interfaces\\ReadInSampleFile126\\ReadInFile126.csproj",
       "projectName": "ReadInFile126",
-      "projectPath": "C:\\Users\\jodyj\\Source\\Repos\\ReadInSampleFile126\\ReadInFile126.csproj",
+      "projectPath": "C:\\Users\\jodyj\\Source\\Repos\\Interfaces\\ReadInSampleFile126\\ReadInFile126.csproj",
       "packagesPath": "C:\\Users\\jodyj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jodyj\\Source\\Repos\\ReadInSampleFile126\\obj\\",
+      "outputPath": "C:\\Users\\jodyj\\Source\\Repos\\Interfaces\\ReadInSampleFile126\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

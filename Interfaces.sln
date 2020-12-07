@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces.cs
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreateSampleInputFile", "CreateSampleInputFile\CreateSampleInputFile.csproj", "{3BBEB3F1-0EBB-46AE-8D7D-60FEBA0E2578}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadInFile126", "..\ReadInSampleFile126\ReadInFile126.csproj", "{7BCBA3F1-8EAB-4847-B3D4-F6FF3230F308}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadInFile126", "ReadInSampleFile126\ReadInFile126.csproj", "{6F2755EB-9E99-4EB6-B2A9-A862B798B0C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{3BBEB3F1-0EBB-46AE-8D7D-60FEBA0E2578}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BBEB3F1-0EBB-46AE-8D7D-60FEBA0E2578}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BBEB3F1-0EBB-46AE-8D7D-60FEBA0E2578}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7BCBA3F1-8EAB-4847-B3D4-F6FF3230F308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7BCBA3F1-8EAB-4847-B3D4-F6FF3230F308}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7BCBA3F1-8EAB-4847-B3D4-F6FF3230F308}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7BCBA3F1-8EAB-4847-B3D4-F6FF3230F308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F2755EB-9E99-4EB6-B2A9-A862B798B0C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F2755EB-9E99-4EB6-B2A9-A862B798B0C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F2755EB-9E99-4EB6-B2A9-A862B798B0C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F2755EB-9E99-4EB6-B2A9-A862B798B0C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yDNVjTqqAlm7JslvoZWSJkDxgCR6MDdHiFifSxxcxCVqfZmYfchjEessBFNt4eTJeUQ3pua0zDSDIiOVE66ofw==",
+  "dgSpecHash": "p9r+6nBQrsN6lah+l43O46JO0BhHOvJo9JuIzRyB3tQpYJ68dW6sWfU/Fy+faewyYVb3m2i8SvdazqsubQggmA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jodyj\\Source\\Repos\\ReadInSampleFile126\\ReadInFile126.csproj",
+  "projectFilePath": "C:\\Users\\jodyj\\Source\\Repos\\Interfaces\\ReadInSampleFile126\\ReadInFile126.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jodyj\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
     "C:\\Users\\jodyj\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
